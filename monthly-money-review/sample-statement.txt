@@ -1,0 +1,25 @@
+SAMPLE MONTHLY ACCOUNT STATEMENT
+All data below is fictional and created only to try the monthly-money-review skill.
+
+Account: Sample checking account
+Statement period: 2026-09-01 through 2026-09-30
+Currency: USD
+Opening balance: 1,250.00
+Closing balance: 2,406.36
+Transactions: Posted transactions only
+
+Date        Description                 Amount (USD)  Type
+2026-09-02  Example Employer Payroll       +2,400.00  Deposit
+2026-09-03  Transfer from sample savings     +200.00  Transfer in
+2026-09-05  Example Market                   -86.40  Card purchase
+2026-09-08  September rent                  -900.00  Payment
+2026-09-10  Example Transit                  -72.50  Card purchase
+2026-09-12  Example Market                  -200.00  Card purchase
+2026-09-15  Example Stream                   -14.99  Recurring card payment
+2026-09-20  Example Store                    -38.75  Card purchase
+2026-09-24  Example Shop refund               +24.00  Refund
+2026-09-25  Transfer to sample savings      -150.00  Transfer out
+2026-09-28  Monthly account fee               -5.00  Account fee
+
+Note: "Example Store" is intentionally vague. Its purchase purpose is not
+provided and should not be guessed.
